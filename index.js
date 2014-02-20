@@ -2,12 +2,12 @@
  * Module dependencies.
  */
 
-var SelectionRect = require('selection-rect');
-var Emitter = require('emitter');
-var classes = require('classes');
-var events = require('events');
-var query = require('query');
-var position = require('position');
+var SelectionRect = require('component-selection-rect');
+var Emitter = require('component-emitter');
+var classes = require('component-classes');
+var events = require('component-events');
+var query = require('component-query');
+var position = require('jkroso-position');
 
 /**
  * Expose `Selectable`.

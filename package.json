@@ -1,0 +1,20 @@
+{
+  "name": "component-selectable",
+  "description": "Selectable DOM elements",
+  "version": "0.1.0",
+  "keywords": [
+    "select",
+    "selectable",
+    "selection"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-query": "git://github.com/npmcomponent/component-query.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-selection-rect": "git://github.com/npmcomponent/component-selection-rect.git",
+    "jkroso-position": "git://github.com/npmcomponent/jkroso-position.git"
+  },
+  "license": "MIT"
+}
